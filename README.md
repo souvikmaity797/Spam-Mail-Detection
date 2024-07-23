@@ -1,4 +1,4 @@
-#Spam Mail Detection Model
+# Spam Mail Detection Model
 
 A spam mail detection machine learning model is a sophisticated algorithm designed to identify and filter out unsolicited and potentially harmful emails, commonly known as spam. This model leverages a variety of machine learning techniques and data preprocessing methods to accurately distinguish between legitimate and spam emails. Here's a detailed description of its components and functionality:
 
